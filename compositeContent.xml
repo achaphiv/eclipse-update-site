@@ -2,9 +2,10 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='generated-composite-metadata-repository' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1396914727990'/>
+    <property name='p2.timestamp' value='1396914727991'/>
   </properties>
   <children size='1'>
     <child location='http://eclipse-cs.sourceforge.net/update/'/>
+    <child location='http://update.eclemma.org/'/>
   </children>
 </repository>
