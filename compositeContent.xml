@@ -4,8 +4,15 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1396914727991'/>
   </properties>
-  <children size='2'>
+  <children size='9'>
     <child location='http://eclipse-cs.sourceforge.net/update/'/>
     <child location='http://update.eclemma.org/'/>
+    <child location='http://moreunit.sourceforge.net/update-site/'/>
+    <child location='http://projectusus.googlecode.com/svn/updates/'/>
+    <child location='http://eclipsedsm.github.com/Eclipse-DSM-viewer/'/>
+    <child location='http://findbugs.cs.umd.edu/eclipse'/>
+    <child location='http://andrei.gmxhome.de/eclipse/'/>
+    <child location='http://download.eclipse.org/technology/m2e/releases'/>
+    <child location='http://download.jboss.org/jbosstools/updates/m2e-extensions/m2e-apt/'/>
   </children>
 </repository>
