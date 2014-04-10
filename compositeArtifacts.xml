@@ -2,7 +2,7 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='generated-composite-metadata-repository' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1396914727372'/>
+    <property name='p2.timestamp' value='1396914727373'/>
   </properties>
   <children size='10'>
     <child location='http://eclipse-cs.sourceforge.net/update/'/>
